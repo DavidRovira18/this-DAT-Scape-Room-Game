@@ -1,0 +1,26 @@
+data/LivingroomPrefab/loungeSofa.obj data/LivingroomPrefab/loungeSofa.png -0.100,0.000,-2.200 -90.000,0.000,0.000 1.500,1.000,1.000 0
+data/LivingroomPrefab/loungeSofa.obj data/LivingroomPrefab/loungeSofa.png -0.300,0.000,-0.600 0.000,0.000,0.000 1.000,1.000,1.000 0
+data/LivingroomPrefab/tableCoffee.obj data/LivingroomPrefab/tableCoffee.png -1.000,0.000,-1.400 -90.000,0.000,0.000 1.200,1.000,1.200 0
+data/LivingroomPrefab/cabinetTelevisionDoors.obj data/LivingroomPrefab/cabinetTelevisionDoors.png -1.700,0.000,-1.300 90.000,0.000,0.000 0.900,1.000,1.000 0
+data/LivingroomPrefab/televisionModern.obj data/LivingroomPrefab/televisionModern.png -1.800,0.300,-1.700 -90.000,0.000,0.000 1.300,1.300,1.300 0
+data/LivingroomPrefab/cabinetTelevision.obj data/LivingroomPrefab/cabinetTelevision.png -1.700,0.000,-0.900 90.000,0.000,0.000 0.500,1.000,1.000 0
+data/LivingroomPrefab/cabinetTelevision.obj data/LivingroomPrefab/cabinetTelevision.png -1.700,0.000,-2.000 90.000,0.000,0.000 0.500,1.000,1.000 0
+data/LivingroomPrefab/lampSquareFloor.obj data/LivingroomPrefab/lampSquareFloor.png -1.550,0.000,-0.350 -45.000,0.000,0.000 1.500,1.000,1.500 0
+data/LivingroomPrefab/bookcaseClosedWide.obj data/LivingroomPrefab/bookcaseClosedWide.png -1.200,0.000,-3.100 180.000,0.000,0.000 1.000,1.400,1.000 0
+data/LivingroomPrefab/bookcaseClosedDoors.obj data/LivingroomPrefab/bookcaseClosedDoors.png -0.400,0.000,-3.100 180.000,0.000,0.000 1.300,1.300,1.000 0
+data/LivingroomPrefab/bookcaseClosedDoors.obj data/LivingroomPrefab/bookcaseClosedDoors.png -1.700,0.000,-3.100 -180.000,0.000,0.000 1.300,1.300,1.000 0
+data/LivingroomPrefab/books.obj data/LivingroomPrefab/books.png -0.622,0.770,-3.168 -180.000,0.000,0.000 1.200,1.400,1.000 0
+data/LivingroomPrefab/pottedPlant.obj data/LivingroomPrefab/pottedPlant.png 0.100,0.000,-0.400 0.000,0.000,0.000 1.500,1.300,1.500 0
+data/LivingroomPrefab/plantSmall1.obj data/LivingroomPrefab/plantSmall1.png -0.806,0.770,-3.231 0.000,0.000,0.000 1.100,1.100,1.100 0
+data/LivingroomPrefab/books.obj data/LivingroomPrefab/books.png -0.741,0.770,-3.168 180.000,0.000,0.000 1.500,1.500,1.000 0
+data/LivingroomPrefab/books.obj data/LivingroomPrefab/books.png -1.234,0.770,-3.189 180.000,0.000,0.000 1.200,1.399,1.000 0
+data/LivingroomPrefab/books.obj data/LivingroomPrefab/books.png -1.098,0.770,-3.197 180.000,0.000,0.000 1.000,1.000,1.000 0
+data/LivingroomPrefab/cardboardBoxClosed.obj data/LivingroomPrefab/cardboardBoxClosed.png -1.872,0.000,-3.345 -64.408,0.000,0.000 0.800,0.800,0.800 0
+data/LivingroomPrefab/books.obj data/LivingroomPrefab/books.png -1.097,0.430,-3.224 180.000,0.000,0.000 1.400,1.800,1.200 0
+data/LivingroomPrefab/books.obj data/LivingroomPrefab/books.png -1.096,0.430,-3.226 -180.000,0.000,0.000 1.198,1.332,1.000 0
+data/LivingroomPrefab/cardboardBoxClosed.obj data/LivingroomPrefab/cardboardBoxClosed.png 0.300,0.000,-3.400 -60.000,0.000,0.000 1.000,1.000,1.000 0
+data/LivingroomPrefab/chair.obj data/LivingroomPrefab/chair.png 1.400,0.000,-1.400 0.000,0.000,0.000 1.000,1.000,1.000 0
+data/LivingroomPrefab/chair.obj data/LivingroomPrefab/chair.png 2.000,0.000,-1.400 0.000,0.000,0.000 1.000,1.000,1.000 0
+data/LivingroomPrefab/chair.obj data/LivingroomPrefab/chair.png 1.200,0.000,-2.000 180.000,0.000,0.000 1.000,1.000,1.000 0
+data/LivingroomPrefab/chair.obj data/LivingroomPrefab/chair.png 1.800,0.000,-2.000 180.000,0.000,0.000 1.000,1.000,1.000 0
+data/LivingroomPrefab/stall.obj data/LivingroomPrefab/stall.png 1.600 0.000 -1.700 90.000 0.000 0.000 1.000 1.000 1.000 0

@@ -1,0 +1,214 @@
+﻿  entities.cpp
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\framework.h(374,105): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(116,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(122,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(134,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(136,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(137,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(148,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(154,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(183,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(185,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(395,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(395,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(396,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(396,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(397,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(397,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(398,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(398,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(419,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(422,24): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(443,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(448,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(468,27): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(475,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(490,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(509,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(517,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(521,52): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(526,50): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(531,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(596,21): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(611,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(612,68): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(648,39): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(651,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(656,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(661,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(665,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(685,14): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(688,14): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(719,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(734,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(743,32): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(758,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(771,2): warning C4002: hay demasiados argumentos para la invocación de macro "assert" de tipo función
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(780,37): warning C4305: 'argumento': truncamiento de 'time_t (__cdecl *)(time_t *const )' a 'bool'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(789,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(837,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(838,36): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(839,36): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(876,41): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(877,41): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(878,41): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(954,84): warning C4806: '==': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'eTypeInteractive' puede igualar la constante proporcionada
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(954,128): warning C4806: '==': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'eTypeInteractive' puede igualar la constante proporcionada
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(954,172): warning C4806: '==': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'eTypeInteractive' puede igualar la constante proporcionada
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(991,60): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(992,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(995,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1011,60): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1012,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1015,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1028,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1039,60): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1040,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1045,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1046,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1062,60): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1063,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1068,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1069,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1105,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1105,24): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1105,21): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1105,18): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1108,71): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1108,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\entities.cpp(1118,37): warning C4305: 'argumento': truncamiento de 'time_t (__cdecl *)(time_t *const )' a 'bool'
+  game.cpp
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\framework.h(374,105): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\game.cpp(64,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\game.cpp(207,25): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+  main.cpp
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\framework.h(374,105): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\main.cpp(118,46): warning C4244: '=': conversión de 'Sint32' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\main.cpp(152,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  sonido.cpp
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\framework.h(374,105): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\sonido.cpp(92,21): warning C4018: '<': no coinciden signed/unsigned
+  stages.cpp
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\framework.h(374,105): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(88,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(90,149): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(111,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(239,145): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(269,38): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(274,39): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(308,53): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(311,53): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(330,138): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(341,53): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(344,53): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(345,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(353,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(391,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(398,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(563,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(639,41): warning C4305: 'argumento': truncamiento de 'time_t (__cdecl *)(time_t *const )' a 'bool'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(648,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(655,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(667,138): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(687,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(687,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(700,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(701,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(764,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(764,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(775,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(775,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(900,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(900,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(911,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(911,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(922,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(922,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(934,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(934,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(945,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(945,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1029,38): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1035,38): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1580,13): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1638,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1782,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1787,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1792,24): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1803,136): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1816,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1834,23): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1849,23): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1904,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1904,24): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1904,21): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1904,18): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1907,71): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1907,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1922,37): warning C4305: 'argumento': truncamiento de 'time_t (__cdecl *)(time_t *const )' a 'bool'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1944,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1945,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1952,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1980,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(1983,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(2077,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\stages.cpp(2079,21): warning C4018: '<': no coinciden signed/unsigned
+  utils.cpp
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\framework.h(374,105): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(100,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(125,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(176,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(177,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(325,51): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(326,63): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(351,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(361,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(383,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(385,17): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(398,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(407,14): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(447,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(448,59): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(448,44): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(448,29): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(458,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(459,74): warning C4244: 'argumento': conversión de '_Ty' a 'uint8'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(459,59): warning C4244: 'argumento': conversión de '_Ty' a 'uint8'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(459,44): warning C4244: 'argumento': conversión de '_Ty' a 'uint8'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\src\utils.cpp(459,29): warning C4244: 'argumento': conversión de '_Ty' a 'uint8'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+     Creando biblioteca ..\..\game.lib y objeto ..\..\game.exp
+LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  377 of 2755 functions (13.7%) were compiled, the rest were copied from previous compilation.
+    14 functions were new in current compilation
+    115 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  visualstudio.vcxproj -> C:\Users\ainho\OneDrive\Desktop\University\3o\TJE\JocsElectr-nics2D\TJE_Framework-master\game.exe

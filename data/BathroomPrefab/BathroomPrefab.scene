@@ -1,0 +1,9 @@
+data/BathroomPrefab/toiletSquare.obj data/BathroomPrefab/toiletSquare.png 5.200,0.000,1.200 0.000,0.000,0.000 1.000,1.000,1.000 0
+data/BathroomPrefab/trashcan.obj data/BathroomPrefab/trashcan.png 4.700,0.000,1.500 0.000,0.000,0.000 1.000,1.000,1.000 0
+data/BathroomPrefab/shower.obj data/BathroomPrefab/shower.png 5.300,0.000,1.000 0.000,0.000,0.000 1.000,1.000,1.000 0
+data/BathroomPrefab/bathroomSinkSquare.obj data/BathroomPrefab/bathroomSinkSquare.png 3.823,0.000,0.600 180.000,0.000,0.000 1.000,1.000,1.000 0
+data/BathroomPrefab/pillBottle.obj data/BathroomPrefab/pillBottle.png 3.950,0.770,0.200 0.000,0.000,0.000 0.700,0.700,0.700 0
+data/BathroomPrefab/pillBottle.obj data/BathroomPrefab/pillBottle.png 4.050,0.770,0.200 30.000,0.000,0.000 0.700,0.700,0.700 0
+data/BathroomPrefab/pillBottle.obj data/BathroomPrefab/pillBottle.png 4.125,0.770,0.200 60.000,0.000,0.000 0.700,0.700,0.700 0
+data/BathroomPrefab/pottedPlant.obj data/BathroomPrefab/pottedPlant.png 3.157,0.000,1.422 0.000,0.000,0.000 1.000,1.000,1.000 0
+data/BathroomPrefab/rugRounded.obj data/BathroomPrefab/rugRounded.png 5.850,0.000,0.650 0.000,0.000,0.000 0.351,0.351,0.351 0

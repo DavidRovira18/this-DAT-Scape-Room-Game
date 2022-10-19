@@ -1,0 +1,15 @@
+#TYPE MESH POSITION EULER SCALE LAYER BITS INFO
+MESH data/meshes/furniture/wall.obj 5.900,0.000,0.100 0.000,0.000,0.000 3.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/wallDoorway.obj 2.900,0.000,0.150 90.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/wallHalf.obj 2.900,0.000,1.150 90.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/wallWindowSlide.obj 5.950,0.000,1.100 -90.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/wallHalf.obj 5.950,0.000,1.600 -90.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/floorFull.obj 2.900,-0.050,1.600 -180.000,0.000,0.000 3.000,1.000,1.400 0 0 
+MESH data/meshes/furniture/wall.obj 2.950,0.000,1.650 180.000,0.000,0.000 3.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/toiletSquare.obj 5.200,0.000,1.200 0.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/trashcan.obj 4.700,0.000,1.500 0.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/shower.obj 5.300,0.000,1.000 0.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/bathroomSinkSquare.obj 3.823,0.000,0.600 180.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/bathroomMirror.obj 3.900,0.700,0.200 180.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/pottedPlant.obj 3.157,0.000,1.422 0.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/rugRounded.obj 5.850,0.000,0.650 0.000,0.000,0.000 0.351,0.351,0.351 0 0 

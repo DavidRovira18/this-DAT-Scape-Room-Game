@@ -1,0 +1,26 @@
+#TYPE MESH POSITION EULER SCALE LAYER BITS INFO
+MESH data/meshes/furniture/doorway.obj 4.650,0.000,-6.600 0.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/washerDryerStacked.obj 3.450,0.000,-8.300 180.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/sideTable.obj 4.400,0.000,-8.550 0.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/bathroomSink.obj 4.500,0.450,-8.300 -180.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/bathroomMirror.obj 4.500,0.700,-8.550 180.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/bookcaseClosedDoors.obj 5.000,0.000,-7.900 90.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/table.obj 4.900,0.000,-7.500 90.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/cardboardBoxClosed.obj 5.300,0.300,-6.900 0.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/cardboardBoxOpen.obj 5.300,0.300,-7.300 -60.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/bear.obj 4.000,0.450,-6.900 0.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/chair.obj 2.650,0.000,-7.900 60.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/chair.obj 2.450,0.000,-7.550 30.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/chair.obj 1.950,0.000,-8.050 -165.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/nature/tree_detailed.obj -1.400,0.000,-8.750 0.000,0.000,0.000 0.140,0.140,0.140 0 0 
+MESH data/meshes/nature/tree_detailed_dark.obj -0.650,0.000,-8.850 75.000,0.000,0.000 0.115,0.115,0.115 0 0 
+MESH data/meshes/nature/logs_stackLarge.obj 3.750,0.050,-7.050 0.000,0.000,0.000 0.100,0.100,0.100 0 0 
+MESH data/meshes/nature/flower_red3.obj -1.200,0.000,-8.550 0.000,0.000,0.000 0.100,0.100,0.100 0 0 
+MESH data/meshes/nature/flower_red1.obj -1.500,0.000,-8.400 0.000,0.000,0.000 0.100,0.100,0.100 0 0 
+MESH data/meshes/nature/flower_red3.obj -0.400,0.000,-8.800 0.000,0.000,0.000 0.100,0.100,0.100 0 0 
+MESH data/meshes/nature/flower_blue1.obj -0.900,0.000,-8.650 0.000,0.000,0.000 0.100,0.100,0.100 0 0 
+MESH data/meshes/nature/tree_thin.obj 5.500,0.000,-3.800 0.000,0.000,0.000 0.100,0.100,0.100 0 0 
+MESH data/meshes/nature/flower_red3.obj -0.400,0.000,-8.750 0.000,0.000,0.000 0.100,0.100,0.100 0 0 
+MESH data/meshes/nature/flower_blue2.obj -1.300,0.000,-8.400 0.000,0.000,0.000 0.100,0.100,0.100 0 0 
+MESH data/meshes/furniture/tableCross.obj 2.250,0.000,-8.250 60.000,0.000,0.000 1.000,1.000,1.000 0 0 
+MESH data/meshes/furniture/chair.obj 1.950,0.000,-7.600 -120.000,0.000,0.000 1.000,1.000,1.000 0 0 
