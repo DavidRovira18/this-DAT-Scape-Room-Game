@@ -5,3 +5,5 @@ Here is a link to a demo gameplay in Youtube:
 https://youtu.be/uvPIkp4_FVA
 
 Created by Ainhoa Pachon and David Rovira 
+
+Special thanks to Thais Hidalgo, who helped us a lot in the art design of the game.
