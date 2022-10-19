@@ -34,14 +34,6 @@ void Input::init( SDL_Window* _window )
 		_joy[i] = openGamepad(i);
 		updateGamepadState(_joy[i], gamepads[i]);
 	}
-
-	SDL_Haptic* haptic;
-
-	// Open the device
-	haptic = SDL_HapticOpenFromJoystick(_joy[0]);
-	if (haptic == NULL)
-		std::cout << " * Haptic not found" << std::endl;
-
 }
 
 void Input::update()
@@ -90,7 +82,6 @@ void Input::updateGamepadState(SDL_Joystick* joystick, GamepadState& state)
 {
 	//save old state
 	int prev_direction = state.direction;
-	int prev_rightDirection = state.rightDirection;
 	char prev_button[16];
 	memcpy(prev_button, state.button, 16);
 
@@ -161,21 +152,4 @@ void Input::updateGamepadState(SDL_Joystick* joystick, GamepadState& state)
 		state.direction |= PAD_UP;
 	else if (axis_direction.y > limit)
 		state.direction |= PAD_DOWN;
-
-	Vector2 axis_rightDirection(state.axis[RIGHT_ANALOG_X], state.axis[RIGHT_ANALOG_Y]);
-	state.prev_rightDirection = prev_rightDirection;
-	state.rightDirection = 0;
-	limit = 0.2f;
-	if (axis_rightDirection.x < -limit)
-		state.rightDirection |= PAD_LEFT;
-	else if (axis_rightDirection.x > limit)
-		state.rightDirection |= PAD_RIGHT;
-	if (axis_rightDirection.y < -limit)
-		state.rightDirection |= PAD_UP;
-	else if (axis_rightDirection.y > limit)
-		state.rightDirection |= PAD_DOWN;
 }
-
-
-
-

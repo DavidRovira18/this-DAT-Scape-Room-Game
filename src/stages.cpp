@@ -407,7 +407,9 @@ void IntroStage::render()
 
 void IntroStage::update(double seconds_elapsed) 
 {
-	if (arrivedPos1 && (Input::wasKeyPressed(SDL_SCANCODE_SPACE) || Input::wasButtonPressed(A_BUTTON)))	showScreen = true;
+
+	if (arrivedPos1 && Input::wasKeyPressed(SDL_SCANCODE_SPACE)) showScreen = true;
+	
 }
 
 GameStage::GameStage() 
@@ -1397,7 +1399,7 @@ void GameStage::update(double seconds_elapsed)
 	else
 		player->inStorage = false;
 	
-	if (Input::wasKeyPressed(SDL_SCANCODE_E) || Input::wasButtonPressed(A_BUTTON)) {
+	if (Input::wasKeyPressed(SDL_SCANCODE_E)) {
 		mapArea* currentMapArea = getCurrentArea(currentArea);
 		InteractiveEntity* selected;
 		eTypeInteractive selectedType;
@@ -1485,7 +1487,6 @@ void GameStage::update(double seconds_elapsed)
 			}
 			else if (selectedType == eTypeInteractive::STOVE)
 			{
-				std::cout << "first time stove: " << player->firstTimeStove << std::endl;
 				if (!player->firstTimeStove)
 				{
 					player->firstTimeStove = true;  //ALGO ESTA MALAMENT AIXO PERQUE ENS DEIXA FER LA CINEMATICA SEMPRE I NO VOLEM AIXO
@@ -1676,17 +1677,17 @@ void GameStage::update(double seconds_elapsed)
 	//	player->printInventario();
 	//}
 
-	//if (Input::wasKeyPressed(SDL_SCANCODE_G))
-	//{
-	//	saveGame(player, mapAreas, robot);
-	//}
+	if (Input::wasKeyPressed(SDL_SCANCODE_G))
+	{
+		saveGame(player, mapAreas, robot);
+	}
 
-	//if (Input::wasKeyPressed(SDL_SCANCODE_L))
-	//{
-	//	loadGame(player, mapAreas, robot);
-	//}
+	if (Input::wasKeyPressed(SDL_SCANCODE_L))
+	{
+		loadGame(player, mapAreas, robot);
+	}
 
-	if (Input::wasKeyPressed(SDL_SCANCODE_ESCAPE) || Input::wasButtonPressed(START_BUTTON))  //Si apretem ESC es veu el menu 
+	if (Input::wasKeyPressed(SDL_SCANCODE_ESCAPE))  //Si apretem ESC es veu el menu 
 	{
 		if (optionsOn || pinDesordenaoOn || pinOn || graveOn || posterOn ||
 			mirrorOn || noteWardroveStorageOn || noteLivingRoomOn || pcOn || player->hasNote)

@@ -488,12 +488,10 @@ void CharacterEntity::update(double seconds_elapsed) {
 	float speed;
 	isCrouched = false;
 	speed = playerSpeed * seconds_elapsed;
-
-	float gamePadSens = 10.0f;
 	
 	if (inBed) {
 		pitch = -50;
-		if (Input::isKeyPressed(SDL_SCANCODE_SPACE) || Input::wasButtonPressed(A_BUTTON)) {
+		if (Input::isKeyPressed(SDL_SCANCODE_SPACE)) {
 			isWaking = true;
 			pos = modelPlayer * Vector3(-1.78f, -0.2f, 1.440f);
 			inBed = false;
@@ -506,7 +504,7 @@ void CharacterEntity::update(double seconds_elapsed) {
 	if (!canMove) return;
 
 	if (canCrouch) {
-		if (Input::isKeyPressed(SDL_SCANCODE_LCTRL) || Input::isButtonPressed(RIGHT_ANALOG_BUTTON)) {
+		if (Input::isKeyPressed(SDL_SCANCODE_LCTRL)) {
 			isCrouched = true;
 			speed = crouchedSpeed * seconds_elapsed;
 		}
@@ -515,38 +513,17 @@ void CharacterEntity::update(double seconds_elapsed) {
 	isCrouched ? canSprint = false : canSprint = true;
 
 	if (canSprint) {
-		if (Input::isKeyPressed(SDL_SCANCODE_LSHIFT) || Input::isButtonPressed(LEFT_ANALOG_BUTTON)) {
+		if (Input::isKeyPressed(SDL_SCANCODE_LSHIFT)) {
 			speed = sprintSpeed * seconds_elapsed;
 		}
 	}
 
 	pitch -= Input::mouse_delta.y * playerSensibility * seconds_elapsed;
 
-	if (Input::gamepads[0].rightDirection & PAD_UP) //left stick pointing up
-	{
-		pitch -= playerSensibility * gamePadSens * seconds_elapsed;
-	}
-
-	if (Input::gamepads[0].rightDirection & PAD_DOWN)
-	{
-		pitch += playerSensibility * gamePadSens * seconds_elapsed;
-	}
-
-	yaw -= Input::mouse_delta.x * playerSensibility * seconds_elapsed;
-
-	if (Input::gamepads[0].rightDirection & PAD_RIGHT) //left stick pointing up
-	{
-		yaw += playerSensibility * gamePadSens * seconds_elapsed;
-	}
-
-	if (Input::gamepads[0].rightDirection & PAD_LEFT)
-	{
-		yaw -= playerSensibility * gamePadSens * seconds_elapsed;
-	}
-
-
 	pitch = pitch > limitSight ? limitSight : pitch;
 	pitch = pitch < -limitSight ? -limitSight : pitch;
+
+	yaw -= Input::mouse_delta.x * playerSensibility * seconds_elapsed;
 	
 	Input::centerMouse();
 
@@ -560,26 +537,6 @@ void CharacterEntity::update(double seconds_elapsed) {
 	if (Input::isKeyPressed(SDL_SCANCODE_S)) playerMovement = playerMovement + (forward * speed);
 	if (Input::isKeyPressed(SDL_SCANCODE_A)) playerMovement = playerMovement - (side * speed);
 	if (Input::isKeyPressed(SDL_SCANCODE_D)) playerMovement = playerMovement + (side * speed);
-
-	if (Input::gamepads[0].direction & PAD_UP) //left stick pointing up
-	{
-		playerMovement = playerMovement - (forward * speed);
-	}
-
-	if (Input::gamepads[0].direction & PAD_DOWN)
-	{
-		playerMovement = playerMovement + (forward * speed);
-	}
-
-	if (Input::gamepads[0].direction & PAD_LEFT)
-	{
-		playerMovement = playerMovement - (side * speed);
-	}
-
-	if (Input::gamepads[0].direction & PAD_RIGHT)
-	{
-		playerMovement = playerMovement + (side * speed);
-	}
 
 	Vector3 nextPosition = pos + playerMovement;
 	Vector3 character_center = nextPosition + Vector3(0, 0.5, 0);

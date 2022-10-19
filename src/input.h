@@ -60,8 +60,6 @@ struct GamepadState
 	char prev_button[16]; //buttons in the previous frame
 	char direction;		//which direction is the left stick pointing at
 	char prev_direction; //which direction was the left stick before
-	char rightDirection; //which direction is the right stick pointing at
-	char prev_rightDirection;  //which direction was the right stick before 
 	HATState hat;		//digital pad
 
 	bool isButtonPressed(int num) { return button[num] != 0; }
@@ -102,10 +100,6 @@ public:
 
 	static SDL_Joystick* openGamepad(int index);
 	static void updateGamepadState(SDL_Joystick* joystick, GamepadState& state);
-
-	static SDL_Haptic* openHaptic(int index);
-
-	static int rumble();
 };
 
 
